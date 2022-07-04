@@ -22,6 +22,11 @@
           => You can flag an admin with @admin
           
           I hope that resolves your issue!
+
+
+          This is being run on the music Branch.
+
+
           -- Helpbot
           
           ";
