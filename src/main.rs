@@ -24,7 +24,7 @@
           I hope that resolves your issue!
 
 
-          This is being run on the Master Branch and I just changed this message.
+          This is being run on the foo Branch and I just changed this message.
 
 
           -- Helpbot
